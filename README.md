@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arkapravo Biswas</h1>
 <h3 align="center">I am a B.Tech student in Information Technology with a strong passion for MERN stack development and Machine Learning. Proficient in building dynamic web applications using MongoDB, Express.js, React.js, and Node.js. A dedicated competitive programmer, solving DSA problems in C++ on platforms like LeetCode and Codeforces. Enthusiastic about Blockchain technology, exploring decentralized applications and smart contracts.</h3>
 
+- 🎓 College: **Kalyani Government Engineering College (IT'27)**
 - 📫 How to reach me **arkapravobiswas7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
