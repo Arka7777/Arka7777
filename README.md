@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arkapravo Biswas</h1>
-<h3 align="center">I am a B.Tech student in Information Technology with a strong passion for MERN stack development and Machine Learning. Proficient in building dynamic web applications using MongoDB, Express.js, React.js, and Node.js. A dedicated competitive programmer, solving DSA problems in C++ on platforms like LeetCode and Codeforces. Experienced in working with MySQL databases and backend optimizations. Enthusiastic about Blockchain technology, exploring decentralized applications and smart contracts.</h3>
+<h3 align="center">I am a B.Tech student in Information Technology with a strong passion for MERN stack development and Machine Learning. Proficient in building dynamic web applications using MongoDB, Express.js, React.js, and Node.js. A dedicated competitive programmer, solving DSA problems in C++ on platforms like LeetCode and Codeforces. Enthusiastic about Blockchain technology, exploring decentralized applications and smart contracts.</h3>
 
 - 📫 How to reach me **arkapravobiswas7@gmail.com**
 
