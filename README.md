@@ -50,15 +50,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
   </a>
   <a href="https://docs.ethers.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ethers-io/ethers.js/main/docs/assets/logo.svg" alt="ether.js" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/ChainShot/eth-icon/master/logo.png" alt="ethers.js" width="40" height="40"/>
   </a>
   <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/>
+    <img src="https://repository-images.githubusercontent.com/267077084/8ebfab80-7f0d-11eb-8d1c-7527ef2f7cdd" alt="hardhat" width="40" height="40"/>
   </a>
   <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="ethereum" width="40" height="40"/>
+    <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=024" alt="ethereum" width="40" height="40"/>
   </a>
 </p>
+
 
 
 <h3>Machine Learning</h3>
