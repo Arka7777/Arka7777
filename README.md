@@ -31,12 +31,12 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+<!--   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  </a> -->
+<!--   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
@@ -44,6 +44,22 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
 </p>
+<h3>Web3 & Blockchain</h3>
+<p align="left">
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
+  </a>
+  <a href="https://docs.ethers.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/ethers-io/ethers.js/main/docs/assets/logo.svg" alt="ether.js" width="40" height="40"/>
+  </a>
+  <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="40"/>
+  </a>
+  <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="ethereum" width="40" height="40"/>
+  </a>
+</p>
+
 
 <h3>Machine Learning</h3>
 <p align="left">
