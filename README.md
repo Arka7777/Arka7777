@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arka</h1>
-<h3 align="center">I am a B.Tech student in Information Technology with a strong command in MERN stack development and Machine Learning. Proficient in building dynamic web applications. A dedicated competitive programmer, solving problems on LeetCode and Codeforces. Currently learning Blockchain technology, exploring decentralized applications and smart contracts.</h3>
+<h3 align="center">I am a B.Tech student in Information Technology with a strong command in MERN stack development. Proficient in Backend Development and Blockchain. A dedicated competitive programmer, solving problems on LeetCode and Codeforces. Currently learning advanced Blockchain technologies and cybersecurity.</h3>
 
 
 - 🎓 College: **Kalyani Government Engineering College (IT'27)**
